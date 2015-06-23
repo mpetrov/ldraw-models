@@ -1,0 +1,62 @@
+0 FILE 6964 - Main model.ldr
+0 Main model
+0 Name: 6964 - Main model.ldr
+0 Author: Evert-Jan Boer
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Star Wars
+
+0 !HISTORY 2012-01-24 [Holly-Wood] Made OMR compliant, subfiled
+
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 72 0 0 10 0 0 1 0 1 0 -1 0 0 3795.dat
+1 378 0 -8 60 -1 0 0 0 1 0 0 0 -1 3794a.dat
+0 STEP
+1 19 0 -8 0 0 0 -1 0 1 0 1 0 0 3021.dat
+1 70 10 -24 40 0 0 -1 0 1 0 1 0 0 3040b.dat
+1 70 -10 -24 40 0 0 1 0 1 0 -1 0 0 3040b.dat
+0 STEP
+1 72 10 -32 20 0 0 -1 0 1 0 1 0 0 4070.dat
+1 72 -10 -32 20 0 0 1 0 1 0 -1 0 0 4070.dat
+0 STEP
+1 70 0 -24 0 1 0 0 0 1 0 0 0 1 48933ps1.dat
+0 STEP
+1 378 0 -32 0 1 0 0 0 1 0 0 0 1 3794a.dat
+1 378 0 -40 20 1 0 0 0 1 0 0 0 1 3794a.dat
+0 STEP
+1 378 0 -40 0 1 0 0 0 1 0 0 0 1 3024.dat
+1 71 0 -48 0 1 0 0 0 1 0 0 0 1 3024.dat
+1 0 0 -56 20 -1 0 0 0 1 0 0 0 -1 6005.dat
+0 STEP
+1 0 16 -22 20 1 0 0 0 1 0 0 0 1 6964 - Wing.ldr
+1 0 -16 -22 20 -1 0 0 0 1 0 0 0 -1 6964 - Wing.ldr
+0 STEP
+1 71 0 -56 -30 0 0 1 0 1 0 -1 0 0 3666.dat
+1 71 0 -48 -80 1 0 0 0 1 0 0 0 1 4081b.dat
+1 378 0 -48 -20 1 0 0 0 1 0 0 0 1 4287.dat
+1 378 0 -64 -30 0 0 1 0 1 0 -1 0 0 2431.dat
+1 378 12 -46 -100 0 -1 0 0 0 -1 1 0 0 4592.dat
+1 0 12 -46 -100 0 0 -1 0 1 0 1 0 0 4593.dat
+1 378 -12 -46 -100 0 1 0 0 0 -1 -1 0 0 4592.dat
+1 0 -12 -46 -100 0 0 1 0 1 0 -1 0 0 4593.dat
+0
+0 FILE 6964 - Wing.ldr
+0 Wing
+0 Name: 6964 - Wing.ldr
+0 Author: Evert-Jan Boer
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Star Wars
+
+0 !HISTORY 2012-01-24 [Holly-Wood] Made OMR compliant, subfiled
+
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 19 24 0 0 0 -1 0 0 0 1 -1 0 0 4589.dat
+1 19 54 20 0 -1 0 0 0 1 0 0 0 -1 3023.dat
+1 19 44 -4 0 0 0 -1 0 1 0 1 0 0 4599.dat
+0
+0

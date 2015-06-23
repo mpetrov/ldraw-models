@@ -1,0 +1,173 @@
+0 FILE 6875 - Hovercraft.ldr
+0 Hovercraft
+0 Name: 6875 - Hovercraft.ldr
+0 Author: Ignacio Fernandez Galvan [jellby]
+0 !LDRAW_ORG Unofficial_Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Futuron
+0 !KEYWORDS spaceship, 1988
+
+0 !HISTORY 2012-12-03 [jellby] Initial creation
+
+0 !HELP Canopy (and attached pieces) is opened just 0.5 degrees to avoid overlap at the front
+0 !HELP Front lock on hinges is rotated 12 degrees
+
+1 0 0 -48 -40 0 0 -1 0 1 0 1 0 0 4282.dat
+1 15 0 -56 -100 1 0 0 0 1 0 0 0 1 4859.dat
+1 15 0 -56 70 1 0 0 0 1 0 0 0 1 3069b.dat
+0 STEP
+1 15 0 -56 -180 0 0 -1 0 1 0 1 0 0 3795.dat
+1 15 10 -64 100 0 0 -1 0 1 0 1 0 0 4531.dat
+1 15 -10 -64 100 0 0 -1 0 1 0 1 0 0 4531.dat
+1 15 -10 -64.2616 100.036 0 0 -1 0.0087 1 0 1 -0.0087 0 4275b.dat
+1 15 10 -64.2616 100.036 0 0 -1 0.0087 1 0 1 -0.0087 0 4275b.dat
+0 STEP
+1 15 0 -64 -130 0 0 -1 0 1 0 1 0 0 3021.dat
+1 15 0 -64 -180 -1 0 0 0 1 0 0 0 -1 3068bp08.dat
+1 15 0 -72.2613 100.1059 -1 0 0 0 1 -0.0087 0 -0.0087 -1 3022.dat
+1 15 0 -64 -230 1 0 0 0 1 0 0 0 1 3839b.dat
+0 STEP
+1 15 10 -80 -120 0 0 1 0 1 0 -1 0 0 4531.dat
+1 15 -10 -80 -120 0 0 1 0 1 0 -1 0 0 4531.dat
+1 15 0 -80.261 100.1757 1 0 0 0 1 0.0087 0 -0.0087 1 3956.dat
+1 0 10 -100.0887 -123.2468 0 0 1 -0.7431 0.6691 0 -0.6691 -0.7431 0 2433.dat
+1 0 -10 -100.0887 -123.2468 0 0 1 -0.7431 0.6691 0 -0.6691 -0.7431 0 2433.dat
+0 STEP
+1 15 0 -121.5009 -99.4662 1 0 0 0 0.6691 0.7431 0 -0.7431 0.6691 2432.dat
+1 15 10 -90.4352 80.2637 0 0 -1 -1 0.0087 0 0.0087 1 0 3676.dat
+1 15 -10 -90.4352 80.2637 -1 0 0 0 0.0087 1 0 1 -0.0087 3676.dat
+0 STEP
+1 0 0 -90.0861 120.2622 1 0 0 0 0.0087 -1 0 1 0.0087 6875 - Back engine.ldr
+1 15 30 -110.5042 72.4385 0 0 -1 -1 0.0087 0 0.0087 1 0 3024.dat
+1 15 -30 -110.5042 72.4385 0 0 -1 -1 0.0087 0 0.0087 1 0 3024.dat
+0 STEP
+1 15 0 -40 0 1 0 0 0 1 0 0 0 1 6875 - Box.ldr
+0 STEP
+1 0 50 -88 0 0 0 1 0 1 0 -1 0 0 3666.dat
+1 0 -50 -88 0 0 0 1 0 1 0 -1 0 0 3666.dat
+1 0 0 -64 -30 -1 0 0 0 1 0 0 0 -1 2342.dat
+0 STEP
+1 15 50 -112 -10 1 0 0 0 1 0 0 0 1 4286.dat
+1 15 -50 -112 -10 1 0 0 0 1 0 0 0 1 4286.dat
+1 15 -50 -112 10 -1 0 0 0 1 0 0 0 -1 4286.dat
+1 15 50 -112 10 -1 0 0 0 1 0 0 0 -1 4286.dat
+0 STEP
+1 15 -40 -40 0 1 0 0 0 1 0 0 0 1 4229.dat
+1 15 40 -40 0 1 0 0 0 1 0 0 0 1 4229.dat
+1 15 0 -40 80 1 0 0 0 1 0 0 0 1 4229.dat
+1 15 0 -40 -80 1 0 0 0 1 0 0 0 1 4229.dat
+0 STEP
+1 15 0 -101.6914 -63.6436 1 0 0 0 1 0.0087 0 -0.0087 1 6875 - Canopy.ldr
+0 STEP
+1 15 60 -40 0 -1 0 0 0 1 0 0 0 -1 6875 - Wing.ldr
+1 15 -60 -40 0 1 0 0 0 1 0 0 0 1 6875 - Wing.ldr
+1 14 0 -56 0 1 0 0 0 1 0 0 0 1 6875 - Minifig.ldr
+
+0 FILE 6875 - Back engine.ldr
+0 Back engine
+0 Name: 6875 - Back engine.ldr
+0 Author: Ignacio Fernandez Galvan [jellby]
+0 !LDRAW_ORG Unofficial_Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+1 0 30 16 10 1 0 0 0 1 0 0 0 1 4740.dat
+1 0 -30 16 10 1 0 0 0 1 0 0 0 1 4740.dat
+1 41 -30 8 10 1 0 0 0 1 0 0 0 1 4073.dat
+1 41 30 8 10 1 0 0 0 1 0 0 0 1 4073.dat
+0 STEP
+1 0 0 -8 0 1 0 0 0 1 0 0 0 1 4590.dat
+0 STEP
+1 0 10 -16 0 1 0 0 0 1 0 0 0 1 4073.dat
+1 0 -10 -16 0 1 0 0 0 1 0 0 0 1 4073.dat
+
+0 FILE 6875 - Box.ldr
+0 Box
+0 Name: 6875 - Box.ldr
+0 Author: Ignacio Fernandez Galvan [jellby]
+0 !LDRAW_ORG Unofficial_Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+1 0 40 -8 0 1 0 0 0 1 0 0 0 1 3022.dat
+1 0 -40 -8 0 1 0 0 0 1 0 0 0 1 3022.dat
+0 STEP
+1 15 -50 -32 0 0 0 -1 0 1 0 1 0 0 3701.dat
+1 15 50 -32 0 0 0 -1 0 1 0 1 0 0 3701.dat
+0 STEP
+1 15 0 -40 0 -1 0 0 0 1 0 0 0 -1 4597.dat
+
+0 FILE 6875 - Canopy.ldr
+0 Canopy
+0 Name: 6875 - Canopy.ldr
+0 Author: Ignacio Fernandez Galvan [jellby]
+0 !LDRAW_ORG Unofficial_Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+1 15 0 0 -8 1 0 0 0 0 -1 0 1 0 3020.dat
+0 STEP
+1 15 0 10 -32 -1 0 0 0 0 1 0 1 0 3037.dat
+0 STEP
+1 15 0 20 -48 1 0 0 0 0 -1 0 1 0 4590.dat
+0 STEP
+1 15 0 20 -56 1 0 0 0 0 -1 0 1 0 3069b.dat
+1 15 30 10 -128 -1 0 0 0 0 -1 0 -1 0 3957a.dat
+1 15 -30 10 -128 -1 0 0 0 0 -1 0 -1 0 3957a.dat
+0 STEP
+1 41 -20 -10 0 -1 0 0 0 0 1 0 1 0 2466.dat
+1 41 20 -10 0 -1 0 0 0 0 1 0 1 0 2466.dat
+1 41 -30 10 -136 -1 0 0 0 0 -1 0 -1 0 4589.dat
+1 41 30 10 -136 -1 0 0 0 0 -1 0 -1 0 4589.dat
+
+0 FILE 6875 - Wing.ldr
+0 Wing
+0 Name: 6875 - Wing.ldr
+0 Author: Ignacio Fernandez Galvan [jellby]
+0 !LDRAW_ORG Unofficial_Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+1 0 -60 -8 0 1 0 0 0 1 0 0 0 1 3022.dat
+1 0 -20 -8 0 0 0 1 0 1 0 -1 0 0 4859.dat
+0 STEP
+1 15 -40 -16 0 0 0 1 0 1 0 -1 0 0 3022.dat
+0 STEP
+1 15 -40 -24 0 0 0 1 0 1 0 -1 0 0 3020.dat
+1 15 -30 -32 0 0 0 1 0 1 0 -1 0 0 3023.dat
+0 STEP
+1 15 -60 -32 0 -1 0 0 0 1 0 0 0 -1 2444.dat
+1 15 -10 -32 0 0 0 -1 0 1 0 1 0 0 2458.dat
+0 STEP
+1 15 -40 -32 -30 1 0 0 0 1 0 0 0 1 4596.dat
+1 15 -40 -32 30 -1 0 0 0 1 0 0 0 -1 4596.dat
+1 15 -30 -40 0 -1 0 0 0 1 0 0 0 -1 3021.dat
+0 STEP
+1 15 -40 0 0 1 0 0 0 1 0 0 0 1 4032a.dat
+0 STEP
+1 0 -10 -48 0 0 0 -1 0 1 0 1 0 0 2412a.dat
+1 15 -70 -40 -10 -1 0 0 0 1 0 0 0 -1 4592.dat
+1 15 -70 -40 10 -1 0 0 0 1 0 0 0 -1 4592.dat
+1 0 -70 -40 10 -1 0 0 0 0.5 -0.866 0 -0.866 -0.5 4593.dat
+1 0 -70 -40 -10 -1 0 0 0 0.5 0.866 0 0.866 -0.5 4593.dat
+1 36 -40 -30 -100 1 0 0 0 0 1 0 -1 0 4073.dat
+1 36 -40 -30 100 1 0 0 0 0 -1 0 1 0 4073.dat
+
+0 FILE 6875 - Minifig.ldr
+0 Minifig
+0 Name: 6875 - Minifig.ldr
+0 Author: Ignacio Fernandez Galvan [jellby]
+0 !LDRAW_ORG Unofficial_Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+1 14 0 -9 8 1 0 0 0 0 1 0 -1 0 3816.dat
+1 14 0 -9 8 1 0 0 0 0 1 0 -1 0 3817.dat
+1 14 0 -21 8 1 0 0 0 1 0 0 0 1 3815.dat
+1 15 0 -53 8 1 0 0 0 1 0 0 0 1 973p6e.dat
+1 14 0 -53 8 1 0 0 0 1 0 0 0 1 3838.dat
+1 14 0 -78 8 0.866 0 -0.5 0 1 0 0.5 0 0.866 3626ap01.dat
+1 14 0 -78 8 0.866 0 -0.5 0 1 0 0.5 0 0.866 2446.dat
+1 41 0 -78 8 0.866 0 -0.5 0 1 0 0.5 0 0.866 2447.dat
+1 14 -15.552 -44 8 0.9855 -0.1201 -0.1201 0.1699 0.6969 0.6969 0 -0.7072 0.7071 3818.dat
+1 14 -21.5609 -38.577 -12.3652 0.9855 -0.1699 0 0.1699 0.9855 0 0 0 1 3820.dat
+1 14 15.552 -44 8 0.9855 0.1201 0.1201 -0.1699 0.6969 0.6969 0 -0.7072 0.7071 3819.dat
+1 14 21.5609 -38.577 -12.3652 0.9855 0.1699 0 -0.1699 0.9855 0 0 0 1 3820.dat
+
+0

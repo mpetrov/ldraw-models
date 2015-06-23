@@ -1,0 +1,116 @@
+0 FILE 4484+4485+4486+4487 - Main model.ldr
+0 Main model.ldr
+0 Name: 4484+4485+4486+4487 - Main model.ldr
+0 Author: Evert-Jan Boer
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Star Wars
+
+0 !HISTORY 2012-02-02 [Holly-Wood] Made OMR compliant.
+
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 4484 - Right wing.ldr
+1 0 140 -16 0 -1 0 0 0 -1 0 0 0 1 4485 - Left wing.ldr
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 4486 - Cockpit module.ldr
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 4487 - Cargo module.ldr
+0
+
+0 FILE 4484 - Right wing.ldr
+0 Right wing
+0 Name: 4484 - Right wing.ldr
+0 Author: Evert-Jan Boer
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Star Wars
+
+0 !HISTORY 2012-02-02 [Holly-Wood] Made OMR compliant.
+
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 0 2 -8 20 0 -1 0 0 0 -1 1 0 0 4854.dat
+1 0 2 -8 -40 0 -1 0 0 0 -1 1 0 0 4871.dat
+0 STEP
+1 7 -6 -8 -20 0 -1 0 0 0 -1 1 0 0 4032a.dat
+1 7 2 -8 -20 0 -1 0 0 0 -1 1 0 0 4032a.dat
+0 STEP
+1 0 10 -38 0 0 -1 0 0 0 -1 1 0 0 6636.dat
+1 0 10 22 0 0 -1 0 0 0 -1 1 0 0 6636.dat
+0 STEP
+1 0 10 -8 -20 0 -1 0 1 0 0 0 0 1 2609.dat
+0
+
+0 FILE 4485 - Left wing.ldr
+0 Left wing
+0 Name: 4485 - Left wing.ldr
+0 Author: Evert-Jan Boer
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Star Wars
+
+0 !HISTORY 2012-02-02 [Holly-Wood] Made OMR compliant.
+
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 0 2 -8 20 0 -1 0 0 0 -1 1 0 0 4854.dat
+1 0 2 -8 -40 0 -1 0 0 0 -1 1 0 0 4871.dat
+0 STEP
+1 7 -6 -8 -20 0 -1 0 0 0 -1 1 0 0 4032a.dat
+1 7 2 -8 -20 0 -1 0 0 0 -1 1 0 0 4032a.dat
+0 STEP
+1 0 10 -38 0 0 -1 0 0 0 -1 1 0 0 6636.dat
+1 0 10 22 0 0 -1 0 0 0 -1 1 0 0 6636.dat
+0 STEP
+1 0 10 -8 -20 0 -1 0 1 0 0 0 0 1 2609.dat
+0
+
+0 FILE 4486 - Cockpit module.ldr
+0 Cockpit module
+0 Name: 4486 - Cockpit module.ldr
+0 Author: Evert-Jan Boer
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Star Wars
+
+0 !HISTORY 2012-02-02 [Holly-Wood] Made OMR compliant.
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 7 40 -8 18 1 0 0 0 0 -1 0 1 0 4032a.dat
+1 38 40 -8 26 1 0 0 0 0 -1 0 1 0 4073.dat
+0 STEP
+1 379 40 -8 -20 -1 0 0 0 0 1 0 1 0 30361aps4.dat
+0 STEP
+1 0 40 -8 -38 1 0 0 0 0 -1 0 1 0 4073.dat
+1 47 40 -8 -46 1 0 0 0 0 -1 0 1 0 4740.dat
+0 STEP
+1 0 70 -8 -20 1 0 0 0 0 -1 0 1 0 3707.dat
+1 7 15 -8 -20 0 0 1 1 0 0 0 1 0 32123a.dat
+0 STEP
+1 7 125 -8 -20 0 0 1 1 0 0 0 1 0 32123a.dat
+1 7 70 -8 -20 0 0 -1 -1 0 0 0 1 0 3713.dat
+
+0 FILE 4487 - Cargo module.ldr
+0 Cargo module
+0 Name: 4487 - Cargo module.ldr
+0 Author: Evert-Jan Boer
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Star Wars
+
+0 !HISTORY 2012-02-02 [Holly-Wood] Made OMR compliant.
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 379 100 -8 -20 -1 0 0 0 0 1 0 1 0 30361aps4.dat
+1 7 100 -8 18 1 0 0 0 0 -1 0 1 0 4032a.dat
+1 38 100 -8 26 1 0 0 0 0 -1 0 1 0 4073.dat
+1 0 100 -8 -38 1 0 0 0 0 -1 0 1 0 4073.dat
+1 7 100 -8 -46 1 0 0 0 0 -1 0 1 0 4740.dat
+1 7 100 -8 -54 1 0 0 0 0 -1 0 1 0 2555.dat
+

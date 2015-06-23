@@ -1,0 +1,160 @@
+0 FILE 4493 - Main model.ldr
+0 Main model
+0 Name: 4493 - Main model.ldr
+0 Author: Author: Evert-Jan Boer
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Star Wars
+
+0 !HISTORY 2012-01-30 [Holly-Wood] Made OMR compliant and subfiled
+
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 72 0 0 -30 0 0 1 0 1 0 -1 0 0 2445.dat
+1 72 0 0 120 1 0 0 0 1 0 0 0 1 2419.dat
+0 STEP
+1 379 10 -8 90 0 0 -1 0 1 0 1 0 0 2540.dat
+1 379 -10 -8 90 0 0 1 0 1 0 -1 0 0 2540.dat
+0 STEP
+1 1 0 -8 50 -1 0 0 0 1 0 0 0 -1 3020.dat
+1 71 0 -8 130 -1 0 0 0 1 0 0 0 -1 3832.dat
+1 71 0 -8 -60 1 0 0 0 1 0 0 0 1 2413.dat
+0 STEP
+1 379 0 -16 90 0 0 1 0 1 0 -1 0 0 3795.dat
+1 379 0 -16 -30 0 0 1 0 1 0 -1 0 0 3795.dat
+1 1 -30 -16 130 0 0 1 0 1 0 -1 0 0 3023.dat
+1 1 30 -16 130 0 0 1 0 1 0 -1 0 0 3023.dat
+0 STEP
+1 379 -70 -16 160 -1 0 0 0 1 0 0 0 -1 2450.dat
+1 379 70 -16 160 0 0 -1 0 1 0 1 0 0 2450.dat
+1 71 40 -16 30 1 0 0 0 1 0 0 0 1 41770.dat
+1 71 -40 -16 30 1 0 0 0 1 0 0 0 1 41769.dat
+1 71 0 -16 -110 1 0 0 0 1 0 0 0 1 3068b.dat
+0 STEP
+1 71 10 -40 140 0 0 -1 0 1 0 1 0 0 4286.dat
+1 71 -10 -40 140 0 0 1 0 1 0 -1 0 0 4286.dat
+1 71 -10 -40 120 0 0 1 0 1 0 -1 0 0 3040b.dat
+1 71 10 -40 120 0 0 -1 0 1 0 1 0 0 3040b.dat
+1 71 90 -16 120 0 0 -1 0 1 0 1 0 0 6019.dat
+1 71 -90 -16 120 0 0 1 0 1 0 -1 0 0 6019.dat
+0 STEP
+1 71 0 -40 100 1 0 0 0 1 0 0 0 1 30363.dat
+1 71 0 -24 10 1 0 0 0 1 0 0 0 1 3068b.dat
+1 72 -50 -24 160 0 0 -1 0 1 0 1 0 0 30357.dat
+1 72 50 -24 160 1 0 0 0 1 0 0 0 1 30357.dat
+1 71 110 -14 100 1 0 0 0 0 -1 0 1 0 577.dat
+1 71 -110 -14 100 1 0 0 0 0 -1 0 1 0 577.dat
+0 STEP
+1 71 -10 8 130 0 0 1 0 1 0 -1 0 0 3660.dat
+1 71 10 8 130 0 0 -1 0 1 0 1 0 0 3660.dat
+1 71 0 8 100 1 0 0 0 1 0 0 0 1 3747a.dat
+1 71 0 8 -80 1 0 0 0 1 0 0 0 1 3938.dat
+1 16 0 8 -80 1 0 0 0 1 0 0 0 1 4493 - Stand.ldr
+0 STEP
+1 71 -90 -40 130 0 0 1 0 1 0 -1 0 0 3937.dat
+1 16 -96.151 -37.876 130 0.788011 0.615661 0 -0.615661 0.788011 0 0 0 1 4493 - Wing top right.ldr
+0 STEP
+1 71 90 -40 130 0 0 -1 0 1 0 1 0 0 3937.dat
+1 16 96.151 -37.876 130 0.788011 -0.615661 0 0.615661 0.788011 0 0 0 1 4493 - Wing top left.ldr
+0 STEP
+1 72 0 32 130 0 0 -1 0 1 0 1 0 0 3020.dat
+1 71 0 8 160 -1 0 0 0 1 0 0 0 -1 3660.dat
+1 71 0 -40 170 -1 0 0 0 1 0 0 0 -1 4345b.dat
+1 71 0 -40 170 -1 0 0 0 1 0 0 0 -1 4346ps2.dat
+0 STEP
+1 71 90 0 130 0 0 -1 0 1 0 1 0 0 6134.dat
+1 16 82.929 2.929 130 0.707107 0.707107 0 -0.707107 0.707107 0 0 0 1 4493 - Wing bottom left.ldr
+0 STEP
+1 71 -90 0 130 0 0 1 0 1 0 -1 0 0 6134.dat
+1 16 -82.929 2.929 130 0.707107 -0.707107 0 0.707107 0.707107 0 0 0 1 4493 - Wing bottom right.ldr
+0 STEP
+1 71 0 40 140 -1 0 0 0 1 0 0 0 -1 30136.dat
+0 STEP
+1 71 0 -56 170 -1 0 0 0 1 0 0 0 -1 3960ps3.dat
+0
+0 FILE 4493 - Wing top right.ldr
+0 Wing top right
+0 Name: 4493 - Wing top right.ldr
+0 Author: Author: Evert-Jan Boer
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Star Wars
+
+0 !HISTORY 2012-01-30 [Holly-Wood] Made OMR compliant and subfiled
+
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 71 0 0 0 0 0 -1 0 1 0 1 0 0 6134.dat
+1 72 10 -8 0 0 0 -1 0 1 0 1 0 0 30503.dat
+0 
+0
+0 FILE 4493 - Wing top left.ldr
+0 Wing top left
+0 Name: 4493 - Wing top left.ldr
+0 Author: Author: Evert-Jan Boer
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Star Wars
+
+0 !HISTORY 2012-01-30 [Holly-Wood] Made OMR compliant and subfiled
+
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 71 0 0 0 0 0 1 0 1 0 -1 0 0 6134.dat
+1 72 -10 -8 0 -1 0 0 0 1 0 0 0 -1 30503.dat
+0
+0 FILE 4493 - Wing bottom right.ldr
+0 Wing bottom right
+0 Name: 4493 - Wing bottom right.ldr
+0 Author: Author: Evert-Jan Boer
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Star Wars
+
+0 !HISTORY 2012-01-30 [Holly-Wood] Made OMR compliant and subfiled
+
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 72 10 24 0 0 0 -1 0 1 0 1 0 0 30503.dat
+1 71 0 0 0 0 0 1 0 1 0 -1 0 0 3937.dat
+1 379 -20 16 0 0 0 1 0 1 0 -1 0 0 2412b.dat
+0
+0 FILE 4493 - Wing bottom left.ldr
+0 Wing bottom left
+0 Name: 4493 - Wing bottom left.ldr
+0 Author: Author: Evert-Jan Boer
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Star Wars
+
+0 !HISTORY 2012-01-30 [Holly-Wood] Made OMR compliant and subfiled
+
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 71 0 0 0 0 0 -1 0 1 0 1 0 0 3937.dat
+1 72 -10 24 0 -1 0 0 0 1 0 0 0 -1 30503.dat
+1 379 20 16 0 0 0 1 0 1 0 -1 0 0 2412b.dat
+0 
+0
+0 FILE 4493 - Stand.ldr
+0 Stand
+0 Name: 4493 - Stand.ldr
+0 Author: Author: Evert-Jan Boer
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Star Wars
+
+0 !HISTORY 2012-01-30 [Holly-Wood] Made OMR compliant and subfiled
+
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 71 0 0 0 -1 0 0 0 1 0 0 0 -1 3937.dat
+1 71 10 24 0 -1 0 0 0 1 0 0 0 -1 577.dat
+1 71 -10 24 0 -1 0 0 0 1 0 0 0 -1 577.dat
+

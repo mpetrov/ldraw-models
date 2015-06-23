@@ -1,0 +1,146 @@
+0 FILE 4495 - Main model.ldr
+0 Main model
+0 Name: 4495 - Main model.ldr
+0 Author: Evert-Jan Boer
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Star Wars
+
+0 !HISTORY 2012-01-25 [Holly-Wood] Made OMR compliant, subfiled
+
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 72 0 0 0 0 0 1 0 1 0 -1 0 0 3035.dat
+0 STEP
+1 71 30 -24 60 0 0 -1 0 1 0 1 0 0 30365.dat
+1 71 -30 -24 60 0 0 -1 0 1 0 1 0 0 30365.dat
+1 71 0 -24 70 -1 0 0 0 1 0 0 0 -1 3747a.dat
+1 71 30 -24 30 0 0 -1 0 1 0 1 0 0 3665.dat
+1 71 -30 -24 30 0 0 1 0 1 0 -1 0 0 3665.dat
+0 STEP
+1 72 20 -24 0 1 0 0 0 1 0 0 0 1 40902.dat
+1 72 -20 -24 0 -1 0 0 0 1 0 0 0 -1 40902.dat
+0 STEP
+1 71 -30 -24 -30 0 0 1 0 1 0 -1 0 0 3665.dat
+1 71 30 -24 -30 0 0 -1 0 1 0 1 0 0 3665.dat
+0 STEP
+1 71 -30 -24 -60 0 0 1 0 1 0 -1 0 0 30365.dat
+1 71 30 -24 -60 0 0 1 0 1 0 -1 0 0 30365.dat
+1 0 0 -24 -70 -1 0 0 0 1 0 0 0 -1 32000.dat
+0 STEP
+1 0 0 -32 0 0 0 -1 0 1 0 1 0 0 3035.dat
+0 STEP
+1 16 30 -14 90 -1 0 0 0 1 0 0 0 -1 4495 - Leg.ldr
+1 16 -30 -14 90 -1 0 0 0 1 0 0 0 -1 4495 - Leg.ldr
+1 16 -50 -14 0 0 0 1 0 1 0 -1 0 0 4495 - Leg.ldr
+1 16 -30 -14 -90 1 0 0 0 1 0 0 0 1 4495 - Leg.ldr
+1 16 30 -14 -90 1 0 0 0 1 0 0 0 1 4495 - Leg.ldr
+1 16 50 -14 0 0 0 -1 0 1 0 1 0 0 4495 - Leg.ldr
+0 STEP
+1 72 50 -32 0 0 0 -1 0 1 0 1 0 0 3710.dat
+1 72 -50 -32 0 0 0 -1 0 1 0 1 0 0 3710.dat
+1 71 0 -40 50 0 0 -1 0 1 0 1 0 0 3021.dat
+1 71 0 -40 -50 0 0 -1 0 1 0 1 0 0 3021.dat
+0 STEP
+1 72 0 -56 -10 1 0 0 0 1 0 0 0 1 3004.dat
+1 0 -10 -32 110 1 0 0 0 1 0 0 0 1 4592.dat
+1 71 -10 -32 110 1 0 0 0 0.55557 0.83147 0 -0.83147 0.55557 4593.dat
+1 0 10 -32 110 1 0 0 0 1 0 0 0 1 4592.dat
+1 71 10 -32 110 1 0 0 0 0.55557 0.83147 0 -0.83147 0.55557 4593.dat
+0 STEP
+1 72 0 -64 -30 1 0 0 0 1 0 0 0 1 3298.dat
+1 72 0 -64 30 -1 0 0 0 1 0 0 0 -1 30363.dat
+1 71 0 -80 -10 -1 0 0 0 1 0 0 0 -1 3048.dat
+1 71 -30 -56 20 -1 0 0 0 1 0 0 0 -1 41748ps1.dat
+1 71 30 -56 20 -1 0 0 0 1 0 0 0 -1 41747ps1.dat
+0 STEP
+1 71 30 -56 -20 1 0 0 0 1 0 0 0 1 41748ps1.dat
+1 71 -30 -56 -20 1 0 0 0 1 0 0 0 1 41747ps1.dat
+1 71 0 -88 -30 1 0 0 0 1 0 0 0 1 3937.dat
+0 STEP
+1 16 0 -78 -30 1 0 0 0 0.891007 0.45399 0 -0.45399 0.891007 4495 - Canon.ldr
+1 16 0 0 -110 1 0 0 0 1 0 0 0 1 4495 - Cockpit.ldr
+0
+0 FILE 4495 - Cockpit.ldr
+0 Cockpit
+0 Name: 4495 - Cockpit.ldr
+0 Author: Evert-Jan Boer
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Star Wars
+
+0 !HISTORY 2012-01-25 [Holly-Wood] Made OMR compliant, subfiled
+
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 71 0 0 0 0 0 1 0 1 0 -1 0 0 3021.dat
+1 72 0 -24 20 -1 0 0 0 1 0 0 0 -1 30526.dat
+0 STEP
+1 72 0 -32 20 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 72 0 -8 0 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 72 0 -8 -20 -1 0 0 0 1 0 0 0 -1 3794a.dat
+0 STEP
+1 320 0 -32 -20 -1 0 0 0 1 0 0 0 -1 4733.dat
+0 STEP
+1 320 0 -40 0 0 0 -1 0 1 0 1 0 0 3623.dat
+0 STEP
+1 42 0 -22 -38 0 0 -1 -1 0 0 0 1 0 3070b.dat
+1 0 18 -22 -20 0 -1 0 1 0 0 0 0 1 4592.dat
+1 71 18 -22 -20 0 0 1 1 0 0 0 1 0 4593.dat
+1 0 -18 -22 -20 0 1 0 -1 0 0 0 0 1 4592.dat
+1 71 -18 -22 -20 0 0 -1 -1 0 0 0 1 0 4593.dat
+0 STEP
+1 42 0 -64 -20 1 0 0 0 1 0 0 0 1 4070.dat
+1 72 0 -64 0 1 0 0 0 1 0 0 0 1 4733.dat
+1 71 0 -64 20 -1 0 0 0 1 0 0 0 -1 4070.dat
+0 STEP
+1 0 18 -54 0 0 -1 0 1 0 0 0 0 1 4592.dat
+1 71 18 -54 0 0 -0.382683 0.92388 1 0 0 0 0.92388 0.382683 4593.dat
+1 0 -18 -54 0 0 1 0 -1 0 0 0 0 1 4592.dat
+1 71 -18 -54 0 0 0.382683 -0.92388 -1 0 0 0 0.92388 0.382683 4593.dat
+0 STEP
+1 320 -0 -72 -10 0 0 -1 0 1 0 1 0 0 3069b.dat
+1 71 0 -72 20 0 0 -1 0 1 0 1 0 0 3070b.dat
+1 42 0 -54 -34 0 0 -1 -1 0 0 0 1 0 3070b.dat
+0 
+0 
+0
+0 FILE 4495 - Canon.ldr
+0 Canon
+0 Name: 4495 - Canon.ldr
+0 Author: Evert-Jan Boer
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Star Wars
+
+0 !HISTORY 2012-01-25 [Holly-Wood] Made OMR compliant, subfiled
+
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 0 0 0 -10 1 0 0 0 0 -1 0 1 0 3938.dat
+1 72 0 0 -18 1 0 0 0 0 -1 0 1 0 3794a.dat
+0 STEP
+1 320 0 0 -42 1 0 0 0 0 -1 0 1 0 4589.dat
+1 0 0 0 -126 -1 0 0 0 0 -1 0 -1 0 63965.dat
+0
+0 FILE 4495 - Leg.ldr
+0 Leg
+0 Name: 4495 - Leg.ldr
+0 Author: Evert-Jan Boer
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Star Wars
+
+0 !HISTORY 2012-01-25 [Holly-Wood] Made OMR compliant, subfiled
+
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 71 0 18.5 -7.5 -1 0 0 0 0.382683 0.92388 0 0.92388 -0.382683 30554.dat
+1 72 0 43 -25 0 0 -1 0 1 0 1 0 0 30383.dat
+0 
+0
+0

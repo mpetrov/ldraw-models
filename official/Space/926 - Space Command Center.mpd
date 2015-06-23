@@ -1,0 +1,425 @@
+0 FILE 926 - Main Model.ldr
+0 Main Model
+0 Name: 926 - Main Model.ldr
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Classic Space
+0 !KEYWORDS moon, astronaut, 1979
+0 !HISTORY 2012-03-01 [Holly-Wood] Creation
+
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 926 - Command Centre.ldr
+1 0 -223.554 -4 -274.497 0.707107 0 -0.707107 0 1 0 0.707107 0 0.707107 926 - Space Buggy.ldr
+1 0 106.82 -4 -265.962 0.707107 0 0.707107 0 1 0 -0.707107 0 0.707107 926 - TV Buggy.ldr
+
+
+0 FILE 926 - Command Centre.ldr
+0 Command Centre
+0 Name: 926 - Command Centre.ldr
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Classic Space
+0 !KEYWORDS moon, astronaut, 1979
+0 !HISTORY 2012-03-01 [Holly-Wood] Creation
+
+1 7 0 0 0 1 0 0 0 1 0 0 0 1 3947.dat
+0 STEP
+1 1 -260 -48 -80 -1 0 0 0 1 0 0 0 -1 3479.dat
+1 1 -260 -48 -180 1 0 0 0 1 0 0 0 1 3479.dat
+1 1 -120 -48 -80 -1 0 0 0 1 0 0 0 -1 3479.dat
+1 1 20 -48 -80 -1 0 0 0 1 0 0 0 -1 3479.dat
+1 1 20 -48 -180 1 0 0 0 1 0 0 0 1 3479.dat
+1 1 -140 -24 -230 -1 0 0 0 1 0 0 0 -1 3660.dat
+1 1 -100 -24 -230 -1 0 0 0 1 0 0 0 -1 3660.dat
+1 1 -150 -24 -250 1 0 0 0 1 0 0 0 1 3040b.dat
+1 1 -90 -24 -250 1 0 0 0 1 0 0 0 1 3040b.dat
+0 STEP
+1 1 -150 -48 -230 1 0 0 0 1 0 0 0 1 3040b.dat
+1 1 -90 -48 -230 1 0 0 0 1 0 0 0 1 3040b.dat
+1 1 -140 -48 -210 -1 0 0 0 1 0 0 0 -1 3660.dat
+1 1 -100 -48 -210 -1 0 0 0 1 0 0 0 -1 3660.dat
+0 STEP
+1 1 -120 -56 -140 -1 0 0 0 1 0 0 0 -1 3027.dat
+1 1 -200 -56 -70 -1 0 0 0 1 0 0 0 -1 3460.dat
+1 1 -40 -56 -70 -1 0 0 0 1 0 0 0 -1 3460.dat
+0 STEP
+1 1 -270 -80 -140 0 0 -1 0 1 0 1 0 0 3009.dat
+1 1 30 -80 -140 0 0 -1 0 1 0 1 0 0 3009.dat
+1 1 -230 -80 -80 1 0 0 0 1 0 0 0 1 3002.dat
+1 1 -170 -80 -80 1 0 0 0 1 0 0 0 1 3002.dat
+1 1 -70 -80 -80 1 0 0 0 1 0 0 0 1 3002.dat
+1 1 -10 -80 -80 1 0 0 0 1 0 0 0 1 3002.dat
+1 1 -150 -72 -210 1 0 0 0 1 0 0 0 1 3040b.dat
+1 1 -120 -80 -90 1 0 0 0 1 0 0 0 1 3004.dat
+1 1 -120 -80 -70 -1 0 0 0 1 0 0 0 -1 3660.dat
+1 1 -90 -72 -210 1 0 0 0 1 0 0 0 1 3040b.dat
+1 1 -270 -80 -70 -1 0 0 0 1 0 0 0 -1 3665.dat
+1 1 30 -80 -70 -1 0 0 0 1 0 0 0 -1 3665.dat
+1 7 -200 -64 -160 -1 0 0 0 1 0 0 0 -1 3680.dat
+1 7 -40 -64 -160 -1 0 0 0 1 0 0 0 -1 3680.dat
+0 STEP
+1 1 -270 -104 -120 0 0 -1 0 1 0 1 0 0 3008.dat
+1 1 30 -104 -120 0 0 -1 0 1 0 1 0 0 3008.dat
+1 1 -120 -104 -70 0 0 -1 0 1 0 1 0 0 3002.dat
+1 1 -80 -104 -70 1 0 0 0 1 0 0 0 1 3039p23.dat
+1 1 -40 -104 -70 1 0 0 0 1 0 0 0 1 3039p34.dat
+1 1 0 -104 -70 1 0 0 0 1 0 0 0 1 3039p23.dat
+0 STEP
+1 1 -120 -128 -70 0 0 1 0 1 0 -1 0 0 3002.dat
+1 46 -270 -128 -120 0 0 1 0 1 0 -1 0 0 3010.dat
+1 46 -40 -128 -70 -1 0 0 0 1 0 0 0 -1 3009.dat
+1 1 -270 -128 -60 0 0 1 0 1 0 -1 0 0 3004.dat
+1 1 -270 -128 -180 0 0 1 0 1 0 -1 0 0 3004.dat
+1 1 30 -128 -120 0 0 -1 0 1 0 1 0 0 3008.dat
+0 STEP
+1 1 30 -152 -180 0 0 -1 0 1 0 1 0 0 3004.dat
+1 1 30 -152 -140 0 0 1 0 1 0 -1 0 0 3004p20.dat
+1 1 30 -152 -80 0 0 1 0 1 0 -1 0 0 3010.dat
+1 46 -40 -152 -70 -1 0 0 0 1 0 0 0 -1 3009.dat
+1 1 -120 -152 -60 -1 0 0 0 1 0 0 0 -1 3003.dat
+1 1 -120 -152 -90 1 0 0 0 1 0 0 0 1 3004p90.dat
+1 1 -270 -152 -60 0 0 1 0 1 0 -1 0 0 3004.dat
+1 1 -270 -152 -180 0 0 1 0 1 0 -1 0 0 3004.dat
+1 46 -270 -152 -120 0 0 1 0 1 0 -1 0 0 3010.dat
+0 STEP
+1 1 30 -160 -140 0 0 1 0 1 0 -1 0 0 3666.dat
+1 1 30 -168 -140 0 0 1 0 1 0 -1 0 0 3666.dat
+1 1 30 -176 -60 0 0 1 0 1 0 -1 0 0 3004.dat
+1 46 -40 -176 -70 -1 0 0 0 1 0 0 0 -1 3009.dat
+1 1 -120 -176 -70 0 0 -1 0 1 0 1 0 0 3002.dat
+1 46 -270 -176 -120 0 0 -1 0 1 0 1 0 0 3010.dat
+1 1 -270 -176 -60 0 0 -1 0 1 0 1 0 0 3004.dat
+1 1 -270 -176 -180 0 0 -1 0 1 0 1 0 0 3004.dat
+1 1 290 -24 -140 0 0 -1 0 1 0 1 0 0 3009.dat
+1 1 290 -48 -100 0 0 -1 0 1 0 1 0 0 3004.dat
+1 1 290 -48 -180 0 0 -1 0 1 0 1 0 0 3004.dat
+1 1 290 -72 -100 0 0 -1 0 1 0 1 0 0 3004.dat
+1 1 290 -72 -180 0 0 -1 0 1 0 1 0 0 3004.dat
+1 1 290 -96 -100 0 0 -1 0 1 0 1 0 0 3004.dat
+1 1 290 -96 -180 0 0 -1 0 1 0 1 0 0 3004.dat
+1 1 290 -120 -100 0 0 -1 0 1 0 1 0 0 3004.dat
+1 1 290 -120 -180 0 0 -1 0 1 0 1 0 0 3004.dat
+1 1 290 -144 -100 0 0 -1 0 1 0 1 0 0 3004.dat
+1 1 290 -144 -180 0 0 -1 0 1 0 1 0 0 3004.dat
+1 1 290 -168 -140 0 0 -1 0 1 0 1 0 0 3009.dat
+0 STEP
+1 1 -80 -200 -70 1 0 0 0 1 0 0 0 1 3660p01.dat
+1 1 -40 -200 -70 1 0 0 0 1 0 0 0 1 3660p01.dat
+1 1 0 -200 -70 1 0 0 0 1 0 0 0 1 3660p01.dat
+1 1 160 -176 -140 1 0 0 0 1 0 0 0 1 3456.dat
+1 7 160 -200 -170 -1 0 0 0 1 0 0 0 -1 3937.dat
+1 7 -200 -60 -160 0.707107 0 -0.707107 0 1 0 0.707107 0 0.707107 926 - Command Centre - Chair with White Minifig.ldr
+1 7 -40 -60 -160 0.707107 0 0.707107 0 1 0 -0.707107 0 0.707107 926 - Command Centre - Chair with Red Minifig.ldr
+1 1 -200 -200 -90 1 0 0 0 1 0 0 0 1 3754p01.dat
+0 STEP
+1 1 -270 -200 -120 0 0 1 0 1 0 -1 0 0 3008.dat
+1 1 30 -200 -120 0 0 1 0 1 0 -1 0 0 3008.dat
+1 1 -120 -200 -70 0 0 1 0 1 0 -1 0 0 3002.dat
+1 1 -120 -208 -50 -1 0 0 0 1 0 0 0 -1 3023.dat
+0 STEP
+1 46 -200 -208 -120 -1 0 0 0 1 0 0 0 -1 3036.dat
+1 46 -40 -208 -120 -1 0 0 0 1 0 0 0 -1 3036.dat
+1 7 -270 -224 -50 -0.707107 0 0.707107 0 1 0 -0.707107 0 -0.707107 3144.dat
+1 7 30 -208 -50 -1 0 0 0 1 0 0 0 -1 3957a.dat
+0 STEP
+1 1 -120 -224 -190 -1 0 0 0 1 0 0 0 -1 3703.dat
+1 36 -270 -248 -190 -1 0 0 0 1 0 0 0 -1 3062b.dat
+1 36 30 -248 -190 -1 0 0 0 1 0 0 0 -1 3062b.dat
+1 7 270 -200 -110 -0.951057 0 0.309017 0 1 0 -0.309017 0 -0.951057 3144.dat
+1 1 -120 -232 -60 -1 0 0 0 1 0 0 0 -1 3003.dat
+1 1 -120 -256 -50 -1 0 0 0 1 0 0 0 -1 3004.dat
+1 1 -120 -256 -70 1 0 0 0 1 0 0 0 1 3004p90.dat
+1 1 -120 -280 -60 1 0 0 0 1 0 0 0 1 3003.dat
+1 1 -120 -288 -60 1 0 0 0 1 0 0 0 1 3680.dat
+0 STEP
+1 7 160 -190 -170 1 0 0 0 0.707107 0.707107 0 -0.707107 0.707107 926 - Command Centre - Small Radar Dish.ldr
+1 7 -120 -284 -60 0.707107 0 -0.707107 0 1 0 0.707107 0 0.707107 926 - Command Centre - Large Radar Dish.ldr
+
+0 FILE 926 - Command Centre - Chair with White Minifig.ldr
+0 Command Centre - Chair with White Minifig
+0 Name: 926 - Command Centre - Chair with White Minifig.ldr
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Classic Space
+0 !KEYWORDS moon, astronaut, 1979
+0 !HISTORY 2012-03-01 [Holly-Wood] Creation
+
+1 7 0 -4 0 1 0 0 0 1 0 0 0 1 3679.dat
+0 STEP
+1 7 0 -12 0 0 0 1 0 1 0 -1 0 0 3020.dat
+0 STEP
+1 47 0 -60 30 1 0 0 0 1 0 0 0 1 3678a.dat
+0 STEP
+1 15 10 -60 30 1 0 0 0 1 0 0 0 1 3838.dat
+0 STEP
+1 15 0 -83.824 14.024 0.999848 -0.00667874 0.0161239 0 0.92388 0.382683 -0.0174524 -0.382625 0.923739 3842a.dat
+1 14 0 -83.824 14.024 0.999848 -0.00667874 0.0161239 0 0.92388 0.382683 -0.0174524 -0.382625 0.923739 3626bp01.dat
+1 15 0 -61.652 4.836 1 0 0 0 0.92388 0.382683 0 -0.382683 0.92388 973p90.dat
+1 15 0 -32.088 -7.408 1 0 0 0 0.92388 0.382683 0 -0.382683 0.92388 3815.dat
+1 15 -15.552 -53.334 1.395 0.985 -0.17 0 0.15706 0.910021 0.382683 -0.0650562 -0.376943 0.92388 3818.dat
+1 15 15.552 -53.334 1.395 0.985 0.17 0 -0.117021 0.678029 0.725374 0.123314 -0.714493 0.688355 3819.dat
+1 15 -23.863 -41.026 -14.876 0.985 -0.12019 0.12019 0.15706 0.913942 -0.372828 -0.0650562 0.386684 0.919682 3820.dat
+1 15 23.863 -48.707 -18.475 0.985 0.12019 -0.12019 -0.117021 0.992206 0.033473 0.123314 -0.0184803 0.991814 3820.dat
+1 15 0 -21 -12 1 0 0 0 0 1 0 -1 0 3816.dat
+1 15 0 -21 -12 1 0 0 0 0 1 0 -1 0 3817.dat
+
+
+0 FILE 926 - Command Centre - Chair with Red Minifig.ldr
+0 Command Centre - Chair with Red Minifig
+0 Name: 926 - Command Centre - Chair with Red Minifig.ldr
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Classic Space
+0 !KEYWORDS moon, astronaut, 1979
+0 !HISTORY 2012-03-01 [Holly-Wood] Creation
+
+1 7 0 -4 0 1 0 0 0 1 0 0 0 1 3679.dat
+0 STEP
+1 7 0 -12 0 0 0 1 0 1 0 -1 0 0 3020.dat
+0 STEP
+1 47 0 -60 30 1 0 0 0 1 0 0 0 1 3678a.dat
+0 STEP
+1 4 10 -60 30 1 0 0 0 1 0 0 0 1 3838.dat
+0 STEP
+1 4 0 -83.824 14.024 1 0 0 0 0.92388 0.382683 0 -0.382683 0.92388 3842a.dat
+1 14 0 -83.824 14.024 1 0 0 0 0.92388 0.382683 0 -0.382683 0.92388 3626bp01.dat
+1 4 0 -61.652 4.836 1 0 0 0 0.92388 0.382683 0 -0.382683 0.92388 973p90.dat
+1 4 0 -32.088 -7.408 1 0 0 0 0.92388 0.382683 0 -0.382683 0.92388 3815.dat
+1 4 -15.552 -53.334 1.395 0.985 -0.17 0 0.15706 0.910021 0.382683 -0.0650562 -0.376943 0.92388 3818.dat
+1 4 15.552 -53.334 1.395 0.985 0.17 0 -0.15706 0.910021 0.382683 0.0650562 -0.376943 0.92388 3819.dat
+1 4 -23.863 -41.026 -14.876 0.985 -0.12019 0.12019 0.15706 0.913942 -0.372828 -0.0650562 0.386684 0.919682 3820.dat
+1 4 23.863 -41.026 -14.876 0.985 0.12019 -0.12019 -0.15706 0.913942 -0.372828 0.0650562 0.386684 0.919682 3820.dat
+1 4 0 -21 -12 1 0 0 0 0 1 0 -1 0 3816.dat
+1 4 0 -21 -12 1 0 0 0 0 1 0 -1 0 3817.dat
+
+
+0 FILE 926 - Command Centre - Small Radar Dish.ldr
+0 Command Centre - Small Radar Dish
+0 Name: 926 - Command Centre - Small Radar Dish.ldr
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Classic Space
+0 !KEYWORDS moon, astronaut, 1979
+0 !HISTORY 2012-03-01 [Holly-Wood] Creation
+
+1 7 0 -10 0 -1 0 0 0 1 0 0 0 -1 3938.dat
+0 STEP
+1 7 0 -18 0 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 7 0 -18 0 0.707107 0 -0.707107 0 1 0 0.707107 0 0.707107 926 - Command Centre - Small Radar Dish - Dish.ldr
+
+
+0 FILE 926 - Command Centre - Small Radar Dish - Dish.ldr
+0 Command Centre - Small Radar Dish - Dish
+0 Name: 926 - Command Centre - Small Radar Dish - Dish.ldr
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Classic Space
+0 !KEYWORDS moon, astronaut, 1979
+0 !HISTORY 2012-03-01 [Holly-Wood] Creation
+
+1 7 0 -16 0 1 0 0 0 1 0 0 0 1 3959.dat
+0 STEP
+1 7 0 -16 -24 1 0 0 0 0 1 0 -1 0 3960.dat
+1 34 0 -16 -40 1 0 0 0 0 1 0 -1 0 3062b.dat
+
+
+0 FILE 926 - Command Centre - Large Radar Dish.ldr
+0 Command Centre - Large Radar Dish
+0 Name: 926 - Command Centre - Large Radar Dish.ldr
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Classic Space
+0 !KEYWORDS moon, astronaut, 1979
+0 !HISTORY 2012-03-01 [Holly-Wood] Creation
+
+1 7 0 -4 0 -1 0 0 0 1 0 0 0 -1 3679.dat
+0 STEP
+1 7 10 -12 0 0 0 -1 0 1 0 1 0 0 3794a.dat
+1 7 -10 -12 0 0 0 -1 0 1 0 1 0 0 3794a.dat
+0 STEP
+1 7 0 -36 0 -1 0 0 0 1 0 0 0 -1 3937.dat
+0 STEP
+1 7 0 -26 0 1 0 0 0 0.707107 0.707107 0 -0.707107 0.707107 926 - Command Centre - Large Radar Dish - Dish.ldr
+
+
+0 FILE 926 - Command Centre - Large Radar Dish - Dish.ldr
+0 Command Centre - Large Radar Dish - Dish
+0 Name: 926 - Command Centre - Large Radar Dish - Dish.ldr
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Classic Space
+0 !KEYWORDS moon, astronaut, 1979
+0 !HISTORY 2012-03-01 [Holly-Wood] Creation
+
+1 7 0 -10 0 1 0 0 0 1 0 0 0 1 3938.dat
+0 STEP
+1 7 0 -18 -10 -1 0 0 0 1 0 0 0 -1 3956.dat
+0 STEP
+1 7 0 -38 10 -1 0 0 0 0 -1 0 -1 0 3941.dat
+1 7 0 -38 -14 -1 0 0 0 0 -1 0 -1 0 3941.dat
+1 7 0 -28 26 -1 0 0 0 0 -1 0 -1 0 3839a.dat
+1 7 0 -48 26 1 0 0 0 0 1 0 -1 0 3839a.dat
+0 STEP
+1 7 0 -38 -38 1 0 0 0 0 1 0 -1 0 3961.dat
+0 STEP
+1 7 0 -38 -46 1 0 0 0 0 1 0 -1 0 3940.dat
+
+
+0 FILE 926 - Space Buggy.ldr
+0 Space Buggy
+0 Name: 926 - Space Buggy.ldr
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Classic Space
+0 !KEYWORDS moon, astronaut, 1979
+0 !HISTORY 2012-03-01 [Holly-Wood] Creation
+
+1 7 0 -32 0 0 0 1 0 1 0 -1 0 0 3795.dat
+0 STEP
+1 7 0 -24 0 -1 0 0 0 1 0 0 0 -1 3020.dat
+1 7 0 -24 40 -1 0 0 0 1 0 0 0 -1 122c01.dat
+1 7 0 -24 -40 -1 0 0 0 1 0 0 0 -1 122c01.dat
+1 256 30 -18 -40 0 0 -1 0 1 0 1 0 0 3641.dat
+1 256 -30 -18 -40 0 0 -1 0 1 0 1 0 0 3641.dat
+1 256 -30 -18 40 0 0 -1 0 1 0 1 0 0 3641.dat
+1 256 30 -18 40 0 0 -1 0 1 0 1 0 0 3641.dat
+0 STEP
+1 7 0 -40 -50 1 0 0 0 1 0 0 0 1 3794a.dat
+1 7 0 -40 -30 1 0 0 0 1 0 0 0 1 3829c01.dat
+1 7 0 -56 50 1 0 0 0 1 0 0 0 1 3039.dat
+0 STEP
+1 7 -10 -64 50 1 0 0 0 1 0 0 0 1 3957a.dat
+1 7 0 -40 -50 -1 0 0 0 1 0 0 0 -1 3838.dat
+0 STEP
+1 16 0 -85 8 1 0 0 0 1 0 0 0 1 926 - White Minifig.ldr
+
+0 FILE 926 - TV Buggy.ldr
+0 TV Buggy
+0 Name: 926 - TV Buggy.ldr
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Classic Space
+0 !KEYWORDS moon, astronaut, 1979
+0 !HISTORY 2012-03-01 [Holly-Wood] Creation
+
+1 7 0 -32 -60 1 0 0 0 1 0 0 0 1 3023.dat
+1 7 0 -32 10 0 0 1 0 1 0 -1 0 0 3795.dat
+0 STEP
+1 7 0 -48 -50 -1 0 0 0 1 0 0 0 -1 3787.dat
+1 7 0 -48 50 -1 0 0 0 1 0 0 0 -1 3787.dat
+0 STEP
+1 7 -20 -24 0 0 0 -1 0 1 0 1 0 0 3021.dat
+1 7 20 -24 0 0 0 -1 0 1 0 1 0 0 3021.dat
+1 7 0 -24 50 1 0 0 0 1 0 0 0 1 122c01.dat
+1 7 0 -24 -50 1 0 0 0 1 0 0 0 1 122c01.dat
+1 256 30 -18 50 0 0 1 0 1 0 -1 0 0 3641.dat
+1 256 -30 -18 50 0 0 1 0 1 0 -1 0 0 3641.dat
+1 256 -30 -18 -50 0 0 1 0 1 0 -1 0 0 3641.dat
+1 256 30 -18 -50 0 0 1 0 1 0 -1 0 0 3641.dat
+0 STEP
+1 7 0 -48 -60 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 7 0 -48 -40 1 0 0 0 1 0 0 0 1 3829c01.dat
+1 7 0 -48 50 1 0 0 0 1 0 0 0 1 3680.dat
+0 STEP
+1 7 0 -48 -60 -1 0 0 0 1 0 0 0 -1 3838.dat
+0 STEP
+1 7 0 -44 50 1 0 0 0 1 0 0 0 1 926 - TV Buggy - Camera.ldr
+0 STEP
+1 16 0 -85 -2 1 0 0 0 1 0 0 0 1 926 - Red Minifig.ldr
+
+
+0 FILE 926 - TV Buggy - Camera.ldr
+0 TV Buggy - Camera
+0 Name: 926 - TV Buggy - Camera.ldr
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Classic Space
+0 !KEYWORDS moon, astronaut, 1979
+0 !HISTORY 2012-03-01 [Holly-Wood] Creation
+
+1 7 0 -4 0 1 0 0 0 1 0 0 0 1 3679.dat
+0 STEP
+1 7 0 -12 0 0 0 1 0 1 0 -1 0 0 3020.dat
+0 STEP
+1 1 0 -36 20 0 0 1 0 1 0 -1 0 0 3941.dat
+1 1 0 -44 10 0 0 1 0 1 0 -1 0 0 3021.dat
+0 STEP
+1 7 0 -52 -10 1 0 0 0 1 0 0 0 1 3839a.dat
+1 1 0 -52 20 0 0 -1 0 1 0 1 0 0 3481.dat
+0 STEP
+1 1 0 -76 30 1 0 0 0 1 0 0 0 1 3039p23.dat
+
+
+0 FILE 926 - White Minifig.ldr
+0 White Minifig
+0 Name: 926 - White Minifig.ldr
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Classic Space
+0 !KEYWORDS moon, astronaut, 1979
+0 !HISTORY 2012-03-01 [Holly-Wood] Creation
+
+1 15 0 -27 0 0.87462 0 -0.48481 0 1 0 0.48481 0 0.87462 3842a.dat
+1 14 0 -27 0 0.87462 0 -0.48481 0 1 0 0.48481 0 0.87462 3626bp01.dat
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 3838.dat
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 973p90.dat
+1 15 0 32 0 1 0 0 0 1 0 0 0 1 3815.dat
+1 15 -15.552 9 0 0.985 0 -0.17 0.16168 0.309017 0.936791 0.0525329 -0.951057 0.304382 3818.dat
+1 15 15.552 9 0 0.985 0.120208 0.120208 -0.17 0.6965 0.6965 0 -0.707107 0.707107 3819.dat
+1 15 -18.919 4.287 -21.257 0.985 -0.12019 -0.12019 0.16168 0.880786 0.443836 0.0525329 -0.457199 0.887595 3820.dat
+1 15 21.6886 13.9945 -20.5641 0.985 0.169974 0 -0.17 0.984851 0 0 0 0.999849 3820.dat
+1 0 -17.692 -0.667 -29.016 -0.0874983 -0.14567 -0.985 0.217371 0.961771 -0.16168 0.971609 -0.228685 -0.0525329 3962a.dat
+1 15 0 44 0 1 0 0 0 0 1 0 -1 0 3816.dat
+1 15 0 44 0 1 0 0 0 0 1 0 -1 0 3817.dat
+
+
+0 FILE 926 - Red Minifig.ldr
+0 Red Minifig
+0 Name: 926 - Red Minifig.ldr
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Classic Space
+0 !KEYWORDS moon, astronaut, 1979
+0 !HISTORY 2012-03-01 [Holly-Wood] Creation
+
+1 4 0 -27 0 1 0 0 0 1 0 0 0 1 3842a.dat
+1 14 0 -27 0 1 0 0 0 1 0 0 0 1 3626bp01.dat
+1 4 0 0 0 1 0 0 0 1 0 0 0 1 3838.dat
+1 4 0 0 0 1 0 0 0 1 0 0 0 1 973p90.dat
+1 4 0 32 0 1 0 0 0 1 0 0 0 1 3815.dat
+1 4 -15.552 9 0 0.985 0 -0.17 0.17 0 0.985 0 -1 0 3818.dat
+1 4 15.552 9 0 0.985 0.120208 0.120208 -0.17 0.6965 0.6965 0 -0.707107 0.707107 3819.dat
+1 4 -18.9194 -2.05018 -18.761 0.985 -0.12019 -0.12019 0.17 0.696395 0.696395 0 -0.707 0.707 3820.dat
+1 4 21.6886 13.9945 -20.5641 0.985 0.169974 0 -0.17 0.984851 0 0 0 0.999849 3820.dat
+1 0 -17.692 -9.16177 -24.6093 -0.0874983 -0.14567 -0.985 0.506976 0.844031 -0.17 0.856884 -0.514696 0 3962a.dat
+1 4 0 44 0 1 0 0 0 0 1 0 -1 0 3816.dat
+1 4 0 44 0 1 0 0 0 0 1 0 -1 0 3817.dat
+
+
+
+
