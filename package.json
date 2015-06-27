@@ -1,0 +1,9 @@
+{
+  "name": "ldraw-models",
+  "description": "Official Models",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mpetrov/ldraw-models.git"
+  }
+}
