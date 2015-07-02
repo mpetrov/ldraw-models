@@ -1,6 +1,7 @@
 {
   "name": "ldraw-models",
   "description": "Official Models",
+  "main": "ldraw-models.js",
   "version": "0.0.1",
   "repository": {
     "type": "git",
